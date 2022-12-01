@@ -1,5 +1,5 @@
-Hi 👋, I'm Austin Long
-I play way too many games and code way too hard.
+<h1 align="center">Hi 👋, I'm Austin Long</h1>
+<h3 align="center">I play way too many games and code way too hard.</h3>
 
 - 🔭 I’m currently working on **code**
 
@@ -9,20 +9,20 @@ I play way too many games and code way too hard.
 
 - 🤝 I’m looking for help with **code**
 
-- 👨‍💻 All of my projects are available at [nowhere]
+- 👨‍💻 All of my projects are available at [nowhere](nowhere)
 
-- 📝 I regularly write articles on [nothing]
+- 📝 I regularly write articles on [nothing](nothing)
 
 - 💬 Ask me about **code**
 
-- 📫 How to reach me **you can't**
+- 📫 How to reach me **can't**
 
-- 📄 Know about my experiences [nowhere]
+- 📄 Know about my experiences [nowhere](nowhere)
 
 - ⚡ Fun fact **i code**
 
-Connect with me:
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/i hate twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i hate twitter.com" height="30" width="40" /></a>
 <a href="https://instagram.com/__alongboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__alongboy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/destiny hale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="destiny hale" height="30" width="40" /></a>
